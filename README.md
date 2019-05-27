@@ -1,2 +1,2 @@
 # mepoupe
-Aplicativo para controle financeiro
+Aplicativo para controle financeiro pessoal
